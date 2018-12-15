@@ -1,2 +1,2 @@
 # Wox-Plugin-Magnet
-a magnet search plugin for wox
+A magnet/bt search plugin for wox
